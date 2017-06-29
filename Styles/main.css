@@ -1,0 +1,49 @@
+* {
+	font-family: Helvetica;
+	background-color: #B4D8E6;
+	color: #195180;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.left {
+	float: left;
+	width: 300px;
+}
+
+.right {
+	float: right;
+	width: 300px;
+}
+
+.header {
+	width: 600px;
+	padding: 5px;
+	border: 2px solid black;
+	margin: 10px;
+	text-align: center;
+}
+
+.center	{
+	width: 600px;
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+.image {
+	display: block;
+	margin: auto;
+
+}
